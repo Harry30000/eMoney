@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "vn.lms.eMoney"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "vn.lms.eMoney"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "vn.lms.eMoney"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "vn.lms.eMoney"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "vn.lms.eMoney"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "vn.lms.eMoney"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "vn.lms.eMoney"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "vn.lms.eMoney"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "vn.lms.eMoney"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "vn.lms.eMoney"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "vn.lms.eMoney"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "vn.lms.eMoney"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "vn.lms.eMoney"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "vn.lms.eMoney"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "vn.lms.eMoney"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "vn.lms.eMoney"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "vn.lms.eMoney"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "vn.lms.eMoney"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "vn.lms.eMoney"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "vn.lms.eMoney"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "vn.lms.eMoney"
+        }
+    }
+}
